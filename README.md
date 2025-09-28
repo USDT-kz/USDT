@@ -1,7 +1,22 @@
-# USDT
-USDT token metadata and logo for BscScan
-# USDT
+# USDT (Synthetic)
 
-**Contract Address**: `0x944b64aE714c80F75000D16706dF9B2B4E5480b0`  
-**Email**: sergiynagrebetskii1488@gmail.com  
-**Description**: USDT is a BEP-20 token designed to simulate the behavior of USDT for testing, liquidity modeling, and DeFi experiments on the BNB Chain.
+**Контракт:** `0x944b64aE714c80F75000D16706dF9B2B4E5480b0`  
+**Символ:** USDT  
+**Decimals:** 18  
+
+## Описание
+USDT — это токен BEP-20, разработанный для имитации поведения USDT в целях тестирования, моделирования ликвидности и экспериментов с децентрализованными финансами в сети BNB Chain.
+
+## Цель проекта
+- Тестирование DeFi-инструментов
+- Моделирование ликвидности
+- Образовательные и исследовательские цели
+
+## Ссылки
+- [Контракт на BscScan](https://bscscan.com/address/0x944b64aE714c80F75000D16706dF9B2B4E5480b0)
+- [GitHub Pages](https://serhi1488.github.io/USDT/)
+- Email: sergiynagrebetskii1488@gmail.com
+
+## Команда
+Проект создан Serhii Nagrebetskii — крипто-энтузиаст, разработчик и исследователь DeFi.
+
